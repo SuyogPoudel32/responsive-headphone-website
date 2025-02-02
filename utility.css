@@ -1,0 +1,52 @@
+.padding1{
+    padding: 40px 5vw;
+}
+.padding2{
+    padding: 40px 8vw;
+}
+.padding3{
+    padding: 40px 8vw;
+}
+.margin1{
+    margin-bottom: 10px;
+}
+.margin2{
+    margin-bottom: 20px;
+}
+.color1{
+    text-decoration: none;
+    color:#727274;
+}
+.fontSize1{
+font-size: 2.1rem;
+}
+.fontWeright1{
+    font-weight: 600
+}
+.bgColor0{
+    background-color: #3a3a3a;
+}
+.bgColor1{
+    background-color: #efefef;
+}
+.bgColor2{
+    background-color: #da372b;
+}
+.bgColor3{
+    background-color:#2d6890;
+}
+.bgColor4{
+    background-color:#754e27;
+}
+.invert{
+    filter: invert(1);
+}
+.circle2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+
+
